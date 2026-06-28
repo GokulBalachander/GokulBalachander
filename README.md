@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=C0392B&background=0D0D0D00&center=true&vCenter=true&width=700&lines=%24+whoami+--+Data+Analyst+%7C+CS+Student+%40+UCR;%24+stack+--+Python+%7C+SQL+%7C+Tableau+%7C+Power+BI+%7C+Pandas;%24+projects+--+SectorSight+%7C+SalesPulse+%7C+CoralLens+%7C+ShelfSense;%24+learning+--+R+%7C+Assembly+%7C+MySQL+Window+Functions;%24+open_to+--+Data+Analyst+%26+Business+Data+Analyst+Internships)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=C0392B&background=0D0D0D00&center=true&vCenter=true&width=750&lines=%24+whoami+--+Data+Analyst+%7C+CS+Student+%40+UCR;%24+stack+--+Python+%7C+SQL+%7C+Excel+%7C+Power+BI+%7C+Tableau;%24+projects+--+SectorSight+%7C+SalesPulse+%7C+CoralLens+%7C+ShelfSense;%24+learning+--+R+%7C+Assembly+%7C+MySQL+Window+Functions;%24+open_to+--+Data+Analyst+%26+Business+Data+Analyst+Internships)](https://git.io/typing-svg)
 
 </div>
 
@@ -55,7 +55,7 @@ CS sophomore at UC Riverside (GPA 3.67) turning raw data into decisions — from
 ROLE        = "Data Analyst | Business Data Analyst"
 EXPERIENCE  = "Upcoming Sophomore | Project Developer @ ACM@UCR"
 DOMAIN      = "Data Analytics | Financial Data | ML | Visualization"
-STACK       = "Python · SQL · Tableau · Power BI · Pandas · Scikit-learn"
+STACK       = "Python · SQL · Excel · Power BI · Tableau · Pandas"
 LEARNING    = "R · Assembly · MySQL Window Functions"
 OPEN_TO     = "Data Analyst & Business Data Analyst Internships (2025–2026)"
 AWARD       = "Best Beginner — CutieHacks 2025"
@@ -71,12 +71,16 @@ AWARD       = "Best Beginner — CutieHacks 2025"
 
 **Tools & Platforms**
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,jupyter,vercel&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark)](https://skillicons.dev)
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=0D0D0D"/>
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white&labelColor=0D0D0D"/>
+<img src="https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=white&labelColor=0D0D0D"/>
 
 **Visualization & Analytics**
 
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white&labelColor=0D0D0D"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white&labelColor=0D0D0D"/>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black&labelColor=0D0D0D"/>
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white&labelColor=0D0D0D"/>
 <img src="https://img.shields.io/badge/Matplotlib-C0392B?style=for-the-badge&logo=python&logoColor=white&labelColor=0D0D0D"/>
 <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white&labelColor=0D0D0D"/>
 
