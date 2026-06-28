@@ -81,7 +81,7 @@ AWARD       = "Best Beginner — CutieHacks 2025"
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white&labelColor=0D0D0D"/>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black&labelColor=0D0D0D"/>
 <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white&labelColor=0D0D0D"/>
-<img src="https://img.shields.io/badge/Matplotlib-C0392B?style=for-the-badge&logo=python&logoColor=white&labelColor=0D0D0D"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white&labelColor=0D0D0D"/>
 <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white&labelColor=0D0D0D"/>
 
 **AI & ML Libraries**
