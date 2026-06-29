@@ -256,11 +256,17 @@ AWARD       = "Best Beginner — CutieHacks 2025"
 
 ---
 
-## `$ cat trophies/`
+## `$ cat highlights/`
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=GokulBalachander&theme=darkhub&no-frame=true&column=7&margin-w=10&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews)](https://github.com/ryo-ma/github-profile-trophy)
+![Best Beginner](https://img.shields.io/badge/%F0%9F%A5%87%20Best%20Beginner-CutieHacks%202025-C0392B?style=for-the-badge&labelColor=0D0D0D)
+![Hackathon](https://img.shields.io/badge/%F0%9F%8F%86%20Hackathon%20Winner-2025-E74C3C?style=for-the-badge&labelColor=0D0D0D)
+![GPA](https://img.shields.io/badge/%F0%9F%8E%93%20GPA-3.67%20%2F%204.0-C0392B?style=for-the-badge&labelColor=0D0D0D)
+![Records](https://img.shields.io/badge/%F0%9F%93%8A%20Data%20Processed-400k%2B%20Records-E74C3C?style=for-the-badge&labelColor=0D0D0D)
+![ML Model](https://img.shields.io/badge/%F0%9F%A4%96%20ML%20Model-60%25%20Accuracy-C0392B?style=for-the-badge&labelColor=0D0D0D)
+![Risk Reduction](https://img.shields.io/badge/%E2%9A%A1%20Risk%20Assessment-40%25%20Faster-E74C3C?style=for-the-badge&labelColor=0D0D0D)
+![ACM](https://img.shields.io/badge/%F0%9F%94%B4%20ACM%40UCR-Project%20Developer-C0392B?style=for-the-badge&labelColor=0D0D0D)
 
 </div>
 
