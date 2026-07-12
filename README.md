@@ -76,6 +76,7 @@ AWARD       = "Best Beginner - CutieHacks 2025 (100+ attendees)"
 <img src="https://img.shields.io/badge/Jupyter-F59E0B?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=0D0D0D"/>
 <img src="https://img.shields.io/badge/Google%20Colab-FBBF24?style=for-the-badge&logo=googlecolab&logoColor=white&labelColor=0D0D0D"/>
 <img src="https://img.shields.io/badge/PyCharm-F59E0B?style=for-the-badge&logo=pycharm&logoColor=white&labelColor=0D0D0D"/>
+<img src="https://img.shields.io/badge/Vercel-FBBF24?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D0D0D"/>
 
 **Visualization & Analytics**
 
@@ -85,6 +86,7 @@ AWARD       = "Best Beginner - CutieHacks 2025 (100+ attendees)"
 <img src="https://img.shields.io/badge/Matplotlib-FBBF24?style=for-the-badge&logo=python&logoColor=white&labelColor=0D0D0D"/>
 <img src="https://img.shields.io/badge/Seaborn-F59E0B?style=for-the-badge&logo=python&logoColor=white&labelColor=0D0D0D"/>
 <img src="https://img.shields.io/badge/Google%20Sheets-FBBF24?style=for-the-badge&logo=googlesheets&logoColor=white&labelColor=0D0D0D"/>
+<img src="https://img.shields.io/badge/Microsoft%20Excel-F59E0B?style=for-the-badge&logo=microsoftexcel&logoColor=white&labelColor=0D0D0D"/>
 
 **AI & ML Libraries**
 
@@ -342,6 +344,7 @@ current_focus:
   open_to:
     - "Business Data Analyst & Data Scientist Internships (Summer / Fall 2026)"
     - "Data Scientist Internships (ML / Analytics / SaaS)"
+    - "Data Science roles in Healthcare, E-Commerce, or Tech/SaaS"
 ```
 
 ---
