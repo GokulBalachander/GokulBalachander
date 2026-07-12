@@ -54,7 +54,7 @@ CS sophomore at UC Riverside (GPA 3.67) turning raw data into decisions — trai
 ```bash
 #!/usr/bin/env analyst
 ROLE        = "Business Data Analyst | Data Scientist"
-EXPERIENCE  = "Upcoming Sophomore | Project Developer @ ACM@UCR"
+EXPERIENCE  = "Upcoming Sophomore | Data Scientist @ ACM@UCR"
 DOMAIN      = "Data Analytics | ML | Time-Series Forecasting | Visualization"
 STACK       = "Python · SQL · Pandas · XGBoost · Scikit-learn · Power BI · Tableau"
 LEARNING    = "R · Assembly · MySQL Window Functions"
