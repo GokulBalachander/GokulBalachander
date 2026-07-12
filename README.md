@@ -73,26 +73,26 @@ AWARD       = "Best Beginner - CutieHacks 2025 (100+ attendees)"
 **Tools & Platforms**
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark)](https://skillicons.dev)
-<img src="https://img.shields.io/badge/Jupyter-F59E0B?style=for-the-badge&logo=jupyter&logoColor=black&labelColor=0D0D0D"/>
-<img src="https://img.shields.io/badge/Google%20Colab-FBBF24?style=for-the-badge&logo=googlecolab&logoColor=black&labelColor=0D0D0D"/>
-<img src="https://img.shields.io/badge/PyCharm-F59E0B?style=for-the-badge&logo=pycharm&logoColor=black&labelColor=0D0D0D"/>
+<img src="https://img.shields.io/badge/Jupyter-F59E0B?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=0D0D0D"/>
+<img src="https://img.shields.io/badge/Google%20Colab-FBBF24?style=for-the-badge&logo=googlecolab&logoColor=white&labelColor=0D0D0D"/>
+<img src="https://img.shields.io/badge/PyCharm-F59E0B?style=for-the-badge&logo=pycharm&logoColor=white&labelColor=0D0D0D"/>
 
 **Visualization & Analytics**
 
-<img src="https://img.shields.io/badge/Tableau-F59E0B?style=for-the-badge&logo=tableau&logoColor=black&labelColor=0D0D0D"/>
-<img src="https://img.shields.io/badge/Power%20BI-FBBF24?style=for-the-badge&logo=powerbi&logoColor=black&labelColor=0D0D0D"/>
-<img src="https://img.shields.io/badge/Microsoft%20Excel-F59E0B?style=for-the-badge&logo=microsoftexcel&logoColor=black&labelColor=0D0D0D"/>
-<img src="https://img.shields.io/badge/Matplotlib-FBBF24?style=for-the-badge&logo=matplotlib&logoColor=black&labelColor=0D0D0D"/>
-<img src="https://img.shields.io/badge/Seaborn-F59E0B?style=for-the-badge&logo=python&logoColor=black&labelColor=0D0D0D"/>
-<img src="https://img.shields.io/badge/Google%20Sheets-FBBF24?style=for-the-badge&logo=googlesheets&logoColor=black&labelColor=0D0D0D"/>
+<img src="https://img.shields.io/badge/Tableau-F59E0B?style=for-the-badge&logo=tableau&logoColor=white&labelColor=0D0D0D"/>
+<img src="https://img.shields.io/badge/Power%20BI-FBBF24?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=0D0D0D"/>
+<img src="https://img.shields.io/badge/Microsoft%20Excel-F59E0B?style=for-the-badge&logo=microsoftexcel&logoColor=white&labelColor=0D0D0D"/>
+<img src="https://img.shields.io/badge/Matplotlib-FBBF24?style=for-the-badge&logo=python&logoColor=white&labelColor=0D0D0D"/>
+<img src="https://img.shields.io/badge/Seaborn-F59E0B?style=for-the-badge&logo=python&logoColor=white&labelColor=0D0D0D"/>
+<img src="https://img.shields.io/badge/Google%20Sheets-FBBF24?style=for-the-badge&logo=googlesheets&logoColor=white&labelColor=0D0D0D"/>
 
 **AI & ML Libraries**
 
-<img src="https://img.shields.io/badge/Pandas-F59E0B?style=for-the-badge&logo=pandas&logoColor=black&labelColor=0D0D0D"/>
-<img src="https://img.shields.io/badge/NumPy-FBBF24?style=for-the-badge&logo=numpy&logoColor=black&labelColor=0D0D0D"/>
-<img src="https://img.shields.io/badge/Scikit--learn-F59E0B?style=for-the-badge&logo=scikitlearn&logoColor=black&labelColor=0D0D0D"/>
-<img src="https://img.shields.io/badge/XGBoost-FBBF24?style=for-the-badge&logo=xgboost&logoColor=black&labelColor=0D0D0D"/>
-<img src="https://img.shields.io/badge/statsmodels-F59E0B?style=for-the-badge&logo=python&logoColor=black&labelColor=0D0D0D"/>
+<img src="https://img.shields.io/badge/Pandas-F59E0B?style=for-the-badge&logo=pandas&logoColor=white&labelColor=0D0D0D"/>
+<img src="https://img.shields.io/badge/NumPy-FBBF24?style=for-the-badge&logo=numpy&logoColor=white&labelColor=0D0D0D"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F59E0B?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=0D0D0D"/>
+<img src="https://img.shields.io/badge/XGBoost-FBBF24?style=for-the-badge&logo=python&logoColor=white&labelColor=0D0D0D"/>
+<img src="https://img.shields.io/badge/statsmodels-F59E0B?style=for-the-badge&logo=python&logoColor=white&labelColor=0D0D0D"/>
 
 ---
 
