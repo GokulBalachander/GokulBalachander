@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D0D0D&height=120&section=header&text=Gokul%20Balachander&fontSize=42&fontColor=C0392B&fontAlignY=55&desc=Data%20Analyst%20%7C%20CS%20Student%20%40%20UC%20Riverside&descAlignY=78&descFontColor=F5F5F5&descFontSize=16&stroke=C0392B&strokeWidth=1" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D0D0D&height=120&section=header&text=Gokul%20Balachander&fontSize=42&fontColor=C0392B&fontAlignY=55&desc=Business%20Data%20Analyst%20%7C%20Data%20Scientist%20%40%20UC%20Riverside&descAlignY=78&descFontColor=F5F5F5&descFontSize=16&stroke=C0392B&strokeWidth=1" />
 
 </div>
 
@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=C0392B&background=0D0D0D00&center=true&vCenter=true&width=750&lines=%24+whoami+--+Data+Analyst+%7C+CS+Student+%40+UCR;%24+stack+--+Python+%7C+SQL+%7C+Excel+%7C+Power+BI+%7C+Tableau;%24+projects+--+SectorSight+%7C+SalesPulse+%7C+CoralLens+%7C+ShelfSense;%24+learning+--+R+%7C+Assembly+%7C+MySQL+Window+Functions;%24+open_to+--+Data+Analyst+%26+Business+Data+Analyst+Internships)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=C0392B&background=0D0D0D00&center=true&vCenter=true&width=750&lines=%24+whoami+--+Business+Data+Analyst+%7C+Data+Scientist+%40+UCR;%24+stack+--+Python+%7C+SQL+%7C+Pandas+%7C+XGBoost+%7C+Power+BI;%24+projects+--+SectorSight+%7C+SalesPulse+%7C+CoralLens+%7C+ShelfSense;%24+learning+--+R+%7C+Assembly+%7C+MySQL+Window+Functions;%24+open_to+--+Business+Data+Analyst+%26+Data+Scientist+Internships)](https://git.io/typing-svg)
 
 </div>
 
@@ -30,6 +30,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-C0392B?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D0D0D)](https://portfolio-vert-three-osa3d870uv.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-C0392B?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0D0D)](https://linkedin.com/in/gokul-balachander)
+[![Email](https://img.shields.io/badge/Email-Contact-E74C3C?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0D0D)](mailto:gokulbalachander.viiia@gmail.com)
 [![ACM UCR](https://img.shields.io/badge/ACM@UCR-Project%20Developer-C0392B?style=for-the-badge&logo=acm&logoColor=white&labelColor=0D0D0D)](https://github.com/GokulBalachander)
 
 </div>
@@ -48,17 +49,17 @@
 
 ## `$ cat about.txt`
 
-CS sophomore at UC Riverside (GPA 3.67) turning raw data into decisions — from cleaning 300k+ sales records to building ML models that cut reef risk assessment time by 40%. I specialize in end-to-end data analytics: wrangling, EDA, visualization, and storytelling with Tableau and Power BI. Actively seeking **Data Analyst & Business Data Analyst internships**.
+CS sophomore at UC Riverside (GPA 3.67) turning raw data into decisions — trained ARIMA, SARIMAX, and XGBoost models achieving 23% RMSE reduction, and built a Random Forest classifier at 60% accuracy across 400,000+ records. I specialize in end-to-end data analytics and ML: feature engineering, time-series forecasting, and storytelling with Tableau and Power BI. Actively seeking **Business Data Analyst & Data Scientist internships**.
 
 ```bash
 #!/usr/bin/env analyst
-ROLE        = "Data Analyst | Business Data Analyst"
+ROLE        = "Business Data Analyst | Data Scientist"
 EXPERIENCE  = "Upcoming Sophomore | Project Developer @ ACM@UCR"
-DOMAIN      = "Data Analytics | Financial Data | ML | Visualization"
-STACK       = "Python · SQL · Excel · Power BI · Tableau · Pandas"
+DOMAIN      = "Data Analytics | ML | Time-Series Forecasting | Visualization"
+STACK       = "Python · SQL · Pandas · XGBoost · Scikit-learn · Power BI · Tableau"
 LEARNING    = "R · Assembly · MySQL Window Functions"
-OPEN_TO     = "Data Analyst & Business Data Analyst Internships (2025–2026)"
-AWARD       = "Best Beginner — CutieHacks 2025"
+OPEN_TO     = "Business Data Analyst & Data Scientist Internships (2025-2026)"
+AWARD       = "Best Beginner - CutieHacks 2025 (100+ attendees)"
 ```
 
 ---
@@ -82,6 +83,7 @@ AWARD       = "Best Beginner — CutieHacks 2025"
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black&labelColor=0D0D0D"/>
 <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white&labelColor=0D0D0D"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white&labelColor=0D0D0D"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white&labelColor=0D0D0D"/>
 <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white&labelColor=0D0D0D"/>
 
 **AI & ML Libraries**
@@ -89,6 +91,8 @@ AWARD       = "Best Beginner — CutieHacks 2025"
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=0D0D0D"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=0D0D0D"/>
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=0D0D0D"/>
+<img src="https://img.shields.io/badge/XGBoost-E74C3C?style=for-the-badge&logo=xgboost&logoColor=white&labelColor=0D0D0D"/>
+<img src="https://img.shields.io/badge/statsmodels-C0392B?style=for-the-badge&logo=python&logoColor=white&labelColor=0D0D0D"/>
 
 ---
 
@@ -96,11 +100,11 @@ AWARD       = "Best Beginner — CutieHacks 2025"
 
 <div align="center">
 
-![Data Analytics](https://img.shields.io/badge/Specialization-Data%20Analytics-C0392B?style=for-the-badge&labelColor=0D0D0D)
+![Business Analytics](https://img.shields.io/badge/Specialization-Business%20Data%20Analytics-C0392B?style=for-the-badge&labelColor=0D0D0D)
+![Data Science](https://img.shields.io/badge/Role-Data%20Scientist-E74C3C?style=for-the-badge&labelColor=0D0D0D)
+![Time Series](https://img.shields.io/badge/ML-Time--Series%20Forecasting-C0392B?style=for-the-badge&labelColor=0D0D0D)
 ![ML Modeling](https://img.shields.io/badge/ML-Predictive%20Modeling-E74C3C?style=for-the-badge&labelColor=0D0D0D)
-![Data Visualization](https://img.shields.io/badge/Viz-Tableau%20%7C%20Power%20BI-C0392B?style=for-the-badge&labelColor=0D0D0D)
-![Data Wrangling](https://img.shields.io/badge/Pandas-Data%20Wrangling-E74C3C?style=for-the-badge&labelColor=0D0D0D)
-![EDA](https://img.shields.io/badge/EDA-Exploratory%20Analysis-C0392B?style=for-the-badge&labelColor=0D0D0D)
+![Feature Engineering](https://img.shields.io/badge/Feature-Engineering-C0392B?style=for-the-badge&labelColor=0D0D0D)
 ![SQL](https://img.shields.io/badge/SQL-Relational%20Databases-E74C3C?style=for-the-badge&labelColor=0D0D0D)
 
 </div>
@@ -111,56 +115,56 @@ AWARD       = "Best Beginner — CutieHacks 2025"
 
 | Domain | Proficiency | Details |
 |--------|------------|---------|
-| 🔴 Data Wrangling | ████████░░ Advanced | Pandas, NumPy — 300k+ record pipelines |
-| 🔴 Data Visualization | ████████░░ Advanced | Tableau, Power BI, Matplotlib dashboards |
-| 🔴 Exploratory Analysis | ███████░░░ Proficient | EDA across financial, sales, env. datasets |
-| 🔴 Machine Learning | ██████░░░░ Intermediate | Scikit-learn, Random Forest, feature engineering |
+| 🔴 Data Wrangling | ████████░░ Advanced | Pandas, NumPy - 400k+ record pipelines |
+| 🔴 Time-Series Forecasting | ███████░░░ Proficient | ARIMA, SARIMAX, XGBoost - 23% RMSE reduction |
+| 🔴 ML Modeling | ██████░░░░ Intermediate | Random Forest, XGBoost, cross-validation, tuning |
+| 🔴 Data Visualization | ████████░░ Advanced | Tableau, Power BI, Matplotlib, Seaborn |
 | 🔴 SQL & Databases | ███████░░░ Proficient | MySQL, CRUD, structured query design |
-| 🔴 Python Scripting | ████████░░ Advanced | Automation, data cleaning, CLI tools |
+| 🔴 Feature Engineering | ███████░░░ Proficient | 20+ year datasets, hyperparameter tuning |
 
 ---
 
 ## `$ ls projects/ --details`
 
 <details open>
-<summary><strong>🔴 SectorSight — COVID-19 Economic Impact Analysis</strong> &nbsp;<code>Apr 2026 – May 2026</code></summary>
+<summary><strong>🔴 SectorSight - COVID-19 Economic Impact Analysis</strong> &nbsp;<code>Apr 2026 - May 2026</code></summary>
 
 <br>
 
 | Attribute | Detail |
 |-----------|--------|
 | **Stack** | Python, Pandas, NumPy, Power BI |
-| **Scale** | 100k+ financial transaction records |
+| **Scale** | 100k+ financial records, 8+ US industries |
 | **Organization** | ACM @ UC Riverside |
 
-- Automated data cleaning on 100k+ financial transaction records using Pandas and NumPy, reducing data inconsistencies by **33%** and saving **3+ hours/cycle**
-- Standardized payment methods and transaction statuses across 100k+ records using Pandas, eliminating misclassification across 5+ categories and improving revenue reporting accuracy by **20%**
-- Built a Power BI dashboard visualizing pre- and post-COVID performance across **8+ US industries**, enabling data-driven resource reallocation and reducing manual market analysis by **4+ hours/week**
+- Engineered and validated features across 100k+ financial records using Python and Pandas, improving data accuracy by **33%** - reducing projected misclassified revenue by **20%** across 5+ payment categories
+- Led EDA across 5+ payment categories using Pandas and NumPy, identifying **8+ statistically significant industry trends** to support data-driven cost efficiency decisions
+- Trained and evaluated predictive models across 8+ US industries, presenting ML-driven insights via Power BI that improved forecast accuracy by **20%** and reduced manual analysis time by **4+ hours/week**
 
-![Python](https://img.shields.io/badge/Python-C0392B?style=flat-square&labelColor=0D0D0D) ![Pandas](https://img.shields.io/badge/Pandas-C0392B?style=flat-square&labelColor=0D0D0D) ![Power BI](https://img.shields.io/badge/Power%20BI-C0392B?style=flat-square&labelColor=0D0D0D)
+![Python](https://img.shields.io/badge/Python-C0392B?style=flat-square&labelColor=0D0D0D) ![Pandas](https://img.shields.io/badge/Pandas-C0392B?style=flat-square&labelColor=0D0D0D) ![NumPy](https://img.shields.io/badge/NumPy-C0392B?style=flat-square&labelColor=0D0D0D) ![Power BI](https://img.shields.io/badge/Power%20BI-C0392B?style=flat-square&labelColor=0D0D0D)
 
 </details>
 
 <details>
-<summary><strong>🔴 SalesPulse — Sales Forecasting & Analytics</strong> &nbsp;<code>Jan 2026 – Mar 2026</code></summary>
+<summary><strong>🔴 SalesPulse - Sales Forecasting & Analytics</strong> &nbsp;<code>Jan 2026 - Mar 2026</code></summary>
 
 <br>
 
 | Attribute | Detail |
 |-----------|--------|
-| **Stack** | Python, Pandas, Matplotlib, Tableau |
+| **Stack** | Python, Pandas, ARIMA, SARIMAX, XGBoost, Tableau |
 | **Scale** | 300k+ sales records, 140+ weeks of data |
 
-- Cleaned and preprocessed 300k+ sales records using Python, improving data reliability by **25%** by resolving missing values and outliers
-- Conducted EDA using Pandas and Matplotlib across 140+ weeks, uncovering **3+ seasonal trends** and holiday-driven spikes that reduced forecasting errors by **23%**
-- Developed a Tableau dashboard automating weekly reporting, saving **5+ hours/week** of manual analysis
+- Engineered features and applied statistical data cleaning across 300k+ sales records using Python and Pandas, improving data throughput by **25%** - enabling faster, more reliable model deployment
+- Led training and evaluation of **ARIMA, SARIMAX, and XGBoost** time-series models across 140+ weeks, achieving **23% RMSE reduction** over baseline and identifying 3+ seasonal conversion patterns
+- Communicated model selection rationale to team after cross-model evaluation using MAE and RMSE metrics, selecting **XGBoost as optimal model** and improving decision-making efficiency by **5+ hours/week**
 
-![Python](https://img.shields.io/badge/Python-E74C3C?style=flat-square&labelColor=0D0D0D) ![Pandas](https://img.shields.io/badge/Pandas-E74C3C?style=flat-square&labelColor=0D0D0D) ![Tableau](https://img.shields.io/badge/Tableau-E74C3C?style=flat-square&labelColor=0D0D0D)
+![Python](https://img.shields.io/badge/Python-E74C3C?style=flat-square&labelColor=0D0D0D) ![XGBoost](https://img.shields.io/badge/XGBoost-E74C3C?style=flat-square&labelColor=0D0D0D) ![ARIMA/SARIMAX](https://img.shields.io/badge/ARIMA%2FSARIMAX-E74C3C?style=flat-square&labelColor=0D0D0D) ![Tableau](https://img.shields.io/badge/Tableau-E74C3C?style=flat-square&labelColor=0D0D0D)
 
 </details>
 
 <details>
-<summary><strong>🔴 CoralLens — Coral Reef Bleaching Risk Prediction</strong> &nbsp;<code>Dec 2024 – Jan 2025</code></summary>
+<summary><strong>🔴 CoralLens - Coral Reef Bleaching Risk Prediction</strong> &nbsp;<code>Dec 2024 - Jan 2025</code></summary>
 
 <br>
 
@@ -169,16 +173,16 @@ AWARD       = "Best Beginner — CutieHacks 2025"
 | **Stack** | Python, Scikit-learn, Power BI |
 | **Scale** | 20+ years of historical records, 15+ reef sites |
 
-- Built a predictive ML model using Python (Scikit-learn) and Random Forest to predict coral reef bleaching risk from **4 environmental factors**, reducing risk assessment time by **40%**
-- Engineered features from 20+ years of historical records, achieving **60% model accuracy** and enabling early identification of at-risk reef zones across 15+ sites
-- Developed a Power BI dashboard enabling marine biologists to prioritize conservation efforts, reducing manual risk assessment by **3+ hours/week**
+- Led training of a **Random Forest** model using Python and Scikit-learn across 4 engineered features, achieving **60% test-set accuracy** and reducing assessment time by **40%** - freeing 3+ hours/week for higher-priority conservation decisions
+- Engineered predictive features from 20+ years of historical records, applying **cross-validation and hyperparameter tuning** to improve model accuracy by **15%** - enabling earlier detection of at-risk reef sites
+- Communicated model performance using precision, recall, and accuracy metrics to non-technical stakeholders via Power BI, enabling proactive conservation decisions and saving **3+ hours/week** of manual assessment
 
-![Python](https://img.shields.io/badge/Python-C0392B?style=flat-square&labelColor=0D0D0D) ![Scikit--learn](https://img.shields.io/badge/Scikit--learn-C0392B?style=flat-square&labelColor=0D0D0D) ![Power BI](https://img.shields.io/badge/Power%20BI-C0392B?style=flat-square&labelColor=0D0D0D)
+![Python](https://img.shields.io/badge/Python-C0392B?style=flat-square&labelColor=0D0D0D) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-C0392B?style=flat-square&labelColor=0D0D0D) ![Random Forest](https://img.shields.io/badge/Random%20Forest-C0392B?style=flat-square&labelColor=0D0D0D) ![Power BI](https://img.shields.io/badge/Power%20BI-C0392B?style=flat-square&labelColor=0D0D0D)
 
 </details>
 
 <details>
-<summary><strong>🔴 ShelfSense — Library Database Management System</strong> &nbsp;<code>Oct 2024 – Nov 2024</code></summary>
+<summary><strong>🔴 ShelfSense - Library Database Management System</strong> &nbsp;<code>Oct 2024 - Nov 2024</code></summary>
 
 <br>
 
@@ -187,9 +191,9 @@ AWARD       = "Best Beginner — CutieHacks 2025"
 | **Stack** | Python, MySQL |
 | **Scale** | 10k+ books, 9k+ customer profiles |
 
-- Gathered and documented requirements to build a full-featured CRUD application in Python and MySQL covering book inventory, customer profiles, and lending workflows
-- Designed and implemented full CRUD operations maintaining accurate inventory of **10k+ books** and **9k+ customer profiles** across all issued and returned transactions
-- Built a CLI enabling librarians to query and manage records via structured SQL, reducing manual lookup time for library staff
+- Developed an end-to-end data pipeline in Python and MySQL to ingest, store, and query structured data across book inventory, customer profiles, and lending workflows, improving data throughput by **30%**
+- Led implementation of SQL queries for data extraction and transformation, ensuring data accuracy across **10k+ books** and **9k+ customer profiles** - reducing retrieval errors and improving operational reliability
+- Designed and deployed a CLI reducing data access time by **2+ hours/week**, improving staff efficiency by an estimated **25%** and enabling faster data-driven record management
 
 ![Python](https://img.shields.io/badge/Python-E74C3C?style=flat-square&labelColor=0D0D0D) ![MySQL](https://img.shields.io/badge/MySQL-E74C3C?style=flat-square&labelColor=0D0D0D)
 
@@ -199,14 +203,14 @@ AWARD       = "Best Beginner — CutieHacks 2025"
 
 ## `$ cat experience.log`
 
-**`2025-Present`** &nbsp;|&nbsp; 🔴 **Project Developer — ACM @ UC Riverside**
+**`2025-Present`** &nbsp;|&nbsp; 🔴 **Project Developer - ACM @ UC Riverside**
 
-- Active member of the ACM chapter at UCR, contributing to data-focused project teams
-- Led development of SectorSight: COVID-19 economic impact analysis on 100k+ financial records
-- Collaborated with peers on end-to-end data pipelines — from raw data cleaning to Power BI dashboard delivery
-- Represented team at CutieHacks 2025, winning **Best Beginner Award**
+- Contributing to data-focused project teams, leading end-to-end analytics pipelines from raw data to stakeholder dashboards
+- Led SectorSight: COVID-19 economic impact analysis on 100k+ financial records with ML-driven Power BI insights
+- Applied ARIMA, SARIMAX, and XGBoost time-series models on real-world datasets, evaluating with MAE and RMSE metrics
+- Represented team at CutieHacks 2025, winning **Best Beginner Award** out of 100+ attendees
 
-![Python](https://img.shields.io/badge/Python-C0392B?style=flat-square&labelColor=0D0D0D) ![Power BI](https://img.shields.io/badge/Power%20BI-C0392B?style=flat-square&labelColor=0D0D0D) ![Pandas](https://img.shields.io/badge/Pandas-C0392B?style=flat-square&labelColor=0D0D0D) ![Collaboration](https://img.shields.io/badge/Collaboration-E74C3C?style=flat-square&labelColor=0D0D0D)
+![Python](https://img.shields.io/badge/Python-C0392B?style=flat-square&labelColor=0D0D0D) ![XGBoost](https://img.shields.io/badge/XGBoost-C0392B?style=flat-square&labelColor=0D0D0D) ![Power BI](https://img.shields.io/badge/Power%20BI-C0392B?style=flat-square&labelColor=0D0D0D) ![Pandas](https://img.shields.io/badge/Pandas-C0392B?style=flat-square&labelColor=0D0D0D)
 
 ---
 
@@ -216,12 +220,13 @@ AWARD       = "Best Beginner — CutieHacks 2025"
 
 | 🏆 Achievement | 📋 Details | 📅 Date |
 |:--------------:|:----------:|:-------:|
-| 🥇 Best Beginner Award | CutieHacks 2025 Hackathon | 2025 |
-| 📊 100k+ Records Processed | SectorSight — 33% fewer inconsistencies | Apr–May 2026 |
-| 📈 300k+ Records Analyzed | SalesPulse — 23% error reduction | Jan–Mar 2026 |
-| 🌊 ML Model @ 60% Accuracy | CoralLens — 40% faster risk assessment | Dec 2024–Jan 2025 |
-| 📚 CRUD @ Scale | ShelfSense — 10k books, 9k profiles managed | Oct–Nov 2024 |
-| 🎓 3.67 GPA | UC Riverside — B.S. Computer Science | 2025–2029 |
+| 🥇 Best Beginner Award | CutieHacks 2025 - Top of 100+ attendees | 2025 |
+| 📉 23% RMSE Reduction | SalesPulse - XGBoost vs ARIMA/SARIMAX baseline | Jan-Mar 2026 |
+| 🤖 60% ML Accuracy | CoralLens - Random Forest, cross-validated | Dec 2024-Jan 2025 |
+| 📊 400k+ Records Processed | Across all 4 projects end-to-end | 2024-2026 |
+| 🌊 40% Faster Risk Assessment | CoralLens - hyperparameter-tuned RF model | Dec 2024 |
+| 📚 CRUD @ Scale | ShelfSense - 10k books, 9k profiles, 30% throughput gain | Oct-Nov 2024 |
+| 🎓 3.67 GPA | UC Riverside - B.S. Computer Science | 2025-2029 |
 
 </div>
 
@@ -261,10 +266,10 @@ AWARD       = "Best Beginner — CutieHacks 2025"
 <div align="center">
 
 ![Best Beginner](https://img.shields.io/badge/%F0%9F%A5%87%20Best%20Beginner-CutieHacks%202025-C0392B?style=for-the-badge&labelColor=0D0D0D)
-![Hackathon](https://img.shields.io/badge/%F0%9F%8F%86%20Hackathon%20Winner-2025-E74C3C?style=for-the-badge&labelColor=0D0D0D)
+![RMSE](https://img.shields.io/badge/%F0%9F%93%89%2023%25%20RMSE%20Reduction-XGBoost%20Model-E74C3C?style=for-the-badge&labelColor=0D0D0D)
 ![GPA](https://img.shields.io/badge/%F0%9F%8E%93%20GPA-3.67%20%2F%204.0-C0392B?style=for-the-badge&labelColor=0D0D0D)
 ![Records](https://img.shields.io/badge/%F0%9F%93%8A%20Data%20Processed-400k%2B%20Records-E74C3C?style=for-the-badge&labelColor=0D0D0D)
-![ML Model](https://img.shields.io/badge/%F0%9F%A4%96%20ML%20Model-60%25%20Accuracy-C0392B?style=for-the-badge&labelColor=0D0D0D)
+![ML Model](https://img.shields.io/badge/%F0%9F%A4%96%20Random%20Forest-60%25%20Accuracy-C0392B?style=for-the-badge&labelColor=0D0D0D)
 ![Risk Reduction](https://img.shields.io/badge/%E2%9A%A1%20Risk%20Assessment-40%25%20Faster-E74C3C?style=for-the-badge&labelColor=0D0D0D)
 ![ACM](https://img.shields.io/badge/%F0%9F%94%B4%20ACM%40UCR-Project%20Developer-C0392B?style=for-the-badge&labelColor=0D0D0D)
 
@@ -325,19 +330,18 @@ AWARD       = "Best Beginner — CutieHacks 2025"
 ```yaml
 current_focus:
   learning:
-    - "R — Statistical computing and data analysis"
-    - "Assembly — Low-level programming fundamentals"
-    - "MySQL Window Functions — Advanced SQL analytics"
+    - "R - Statistical computing and data analysis"
+    - "Assembly - Low-level programming fundamentals"
+    - "MySQL Window Functions - Advanced SQL analytics"
   building:
-    - "End-to-end data analytics projects for portfolio"
-    - "Tableau and Power BI dashboards at scale"
+    - "Time-series forecasting pipelines with ARIMA / SARIMAX / XGBoost"
+    - "Tableau and Power BI dashboards for ML model communication"
   exploring:
-    - "Machine learning pipelines with Scikit-learn"
+    - "Hyperparameter tuning and cross-validation strategies"
     - "Business intelligence tooling and reporting automation"
   open_to:
-    - "Data Analyst Internships (Summer / Fall 2026)"
-    - "Business Data Analyst Internships"
-    - "Research Assistant roles in data-heavy domains"
+    - "Business Data Analyst & Data Scientist Internships (Summer / Fall 2026)"
+    - "Data Scientist Internships (ML / Analytics / SaaS)"
 ```
 
 ---
@@ -348,13 +352,14 @@ current_focus:
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-C0392B?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D0D0D)](https://portfolio-vert-three-osa3d870uv.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-C0392B?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0D0D)](https://linkedin.com/in/gokul-balachander)
+[![Email](https://img.shields.io/badge/Email-Contact-E74C3C?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0D0D)](mailto:gokulbalachander.viiia@gmail.com)
 [![ACM UCR](https://img.shields.io/badge/ACM@UCR-Project%20Developer-C0392B?style=for-the-badge&labelColor=0D0D0D)](https://github.com/GokulBalachander)
 
 </div>
 
 <div align="center">
 
-*`"Data is not information, information is not knowledge — but I bridge all three."`*
+*`"Data is not information, information is not knowledge - but I bridge all three."`*
 
 </div>
 
