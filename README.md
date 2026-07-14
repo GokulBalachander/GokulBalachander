@@ -56,7 +56,7 @@ CS sophomore at UC Riverside (GPA 3.67) turning raw data into decisions — trai
 ROLE        = "Business Data Analyst | Data Scientist"
 EXPERIENCE  = "Upcoming Sophomore | Data Scientist @ ACM@UCR"
 DOMAIN      = "Data Analytics | ML | Time-Series Forecasting | Visualization"
-STACK       = "Python · SQL · Pandas · XGBoost · Scikit-learn · Power BI · Tableau"
+STACK       = "Python · SQL · Pandas · XGBoost · ARIMA · SARIMAX · Scikit-learn · Power BI · Tableau · Excel"
 LEARNING    = "R · Assembly · MySQL Window Functions"
 OPEN_TO     = "Business Data Analyst & Data Scientist Internships (2025-2026)"
 AWARD       = "Best Beginner - CutieHacks 2025 (100+ attendees)"
