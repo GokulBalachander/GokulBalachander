@@ -203,19 +203,6 @@ AWARD       = "Best Beginner - CutieHacks 2025 (100+ attendees)"
 
 ---
 
-## `$ cat experience.log`
-
-**`2025-Present`** &nbsp;|&nbsp; 🟡 **Project Developer — ACM @ UC Riverside**
-
-- Contributing to data-focused project teams, leading end-to-end analytics pipelines from raw data to stakeholder dashboards
-- Led SectorSight: COVID-19 economic impact analysis on 100k+ financial records with ML-driven Power BI insights
-- Applied ARIMA, SARIMAX, and XGBoost time-series models on real-world datasets, evaluating with MAE and RMSE metrics
-- Represented team at CutieHacks 2025, winning **Best Beginner Award** out of 100+ attendees
-
-![Python](https://img.shields.io/badge/Python-F59E0B?style=flat-square&labelColor=0D0D0D) ![XGBoost](https://img.shields.io/badge/XGBoost-F59E0B?style=flat-square&labelColor=0D0D0D) ![Power BI](https://img.shields.io/badge/Power%20BI-F59E0B?style=flat-square&labelColor=0D0D0D) ![Pandas](https://img.shields.io/badge/Pandas-F59E0B?style=flat-square&labelColor=0D0D0D)
-
----
-
 ## `$ cat achievements.md`
 
 <div align="center">
