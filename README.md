@@ -164,6 +164,25 @@ AWARD       = "Best Beginner - CutieHacks 2025 (100+ attendees)"
 ![Python](https://img.shields.io/badge/Python-FBBF24?style=flat-square&labelColor=0D0D0D) ![XGBoost](https://img.shields.io/badge/XGBoost-FBBF24?style=flat-square&labelColor=0D0D0D) ![ARIMA/SARIMAX](https://img.shields.io/badge/ARIMA%2FSARIMAX-FBBF24?style=flat-square&labelColor=0D0D0D) ![Tableau](https://img.shields.io/badge/Tableau-FBBF24?style=flat-square&labelColor=0D0D0D)
 
 </details>
+<details>
+<summary><strong>🟡 BoroughIQ — NYC Airbnb Price Estimator</strong> &nbsp;<code>Sep 2025 – Nov 2025</code></summary>
+
+<br>
+
+| Attribute | Detail |
+|-----------|--------|
+| **Stack** | Python, Pandas, Scikit-learn, Matplotlib, Seaborn |
+| **Scale** | 48,895 raw listings → 48,360 cleaned (99% retained) |
+
+- Built an end-to-end NYC Airbnb price estimator solo — handling full pipeline from raw data ingestion to interactive CLI predictor across **48k+ listings**
+- Performed data cleaning and EDA across 5 NYC boroughs, removing duplicates, $0 prices, and extreme outliers while retaining **99% of records** and uncovering borough- and room-type-level pricing patterns
+- Trained and compared **Linear Regression, KNN, and Decision Tree** models; Decision Tree achieved best R²=**0.43** and MAE of **$48.60** — a **24% reduction** in average prediction error vs. KNN and **2.6x more variance explained** vs. baseline
+- Deployed an **interactive CLI predictor** allowing real-time price estimation from user inputs using the trained Decision Tree model
+
+![Python](https://img.shields.io/badge/Python-F59E0B?style=flat-square&labelColor=0D0D0D) ![Pandas](https://img.shields.io/badge/Pandas-F59E0B?style=flat-square&labelColor=0D0D0D) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F59E0B?style=flat-square&labelColor=0D0D0D) ![Matplotlib](https://img.shields.io/badge/Matplotlib-FBBF24?style=flat-square&labelColor=0D0D0D) ![Seaborn](https://img.shields.io/badge/Seaborn-FBBF24?style=flat-square&labelColor=0D0D0D)
+
+</details>
+
 
 <details>
 <summary><strong>🟡 CoralLens — Coral Reef Bleaching Risk Prediction</strong> &nbsp;<code>Dec 2024 – Jan 2025</code></summary>
@@ -201,24 +220,6 @@ AWARD       = "Best Beginner - CutieHacks 2025 (100+ attendees)"
 
 </details>
 
-<details>
-<summary><strong>🟡 BoroughIQ — NYC Airbnb Price Estimator</strong> &nbsp;<code>Sep 2025 – Nov 2025</code></summary>
-
-<br>
-
-| Attribute | Detail |
-|-----------|--------|
-| **Stack** | Python, Pandas, Scikit-learn, Matplotlib, Seaborn |
-| **Scale** | 48,895 raw listings → 48,360 cleaned (99% retained) |
-
-- Built an end-to-end NYC Airbnb price estimator solo — handling full pipeline from raw data ingestion to interactive CLI predictor across **48k+ listings**
-- Performed data cleaning and EDA across 5 NYC boroughs, removing duplicates, $0 prices, and extreme outliers while retaining **99% of records** and uncovering borough- and room-type-level pricing patterns
-- Trained and compared **Linear Regression, KNN, and Decision Tree** models; Decision Tree achieved best R²=**0.43** and MAE of **$48.60** — a **24% reduction** in average prediction error vs. KNN and **2.6x more variance explained** vs. baseline
-- Deployed an **interactive CLI predictor** allowing real-time price estimation from user inputs using the trained Decision Tree model
-
-![Python](https://img.shields.io/badge/Python-F59E0B?style=flat-square&labelColor=0D0D0D) ![Pandas](https://img.shields.io/badge/Pandas-F59E0B?style=flat-square&labelColor=0D0D0D) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F59E0B?style=flat-square&labelColor=0D0D0D) ![Matplotlib](https://img.shields.io/badge/Matplotlib-FBBF24?style=flat-square&labelColor=0D0D0D) ![Seaborn](https://img.shields.io/badge/Seaborn-FBBF24?style=flat-square&labelColor=0D0D0D)
-
-</details>
 ---
 
 ## `$ cat achievements.md`
