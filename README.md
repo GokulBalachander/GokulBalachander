@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D0D0D&height=120&section=header&text=Gokul%20Balachander&fontSize=42&fontColor=F59E0B&fontAlignY=55&desc=Business%20Data%20Analyst%20%7C%20Data%20Scientist%20%40%20UC%20Riverside&descAlignY=78&descFontColor=F5F5F5&descFontSize=16&stroke=F59E0B&strokeWidth=1" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D0D0D&height=120&section=header&text=Gokul%20Balachander&fontSize=42&fontColor=F59E0B&fontAlignY=55&desc=Data%20Analyst%20%7C%20Business%20Data%20Analyst%20%7C%20Data%20Scientist%20%40%20UCR&descAlignY=78&descFontColor=F5F5F5&descFontSize=16&stroke=F59E0B&strokeWidth=1" />
 
 </div>
 
@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=F59E0B&background=0D0D0D00&center=true&vCenter=true&width=750&lines=%24+whoami+--+Business+Data+Analyst+%7C+Data+Scientist+%40+UCR;%24+stack+--+Python+%7C+SQL+%7C+Pandas+%7C+XGBoost+%7C+Power+BI;%24+projects+--+SectorSight+%7C+SalesPulse+%7C+CoralLens+%7C+ShelfSense;%24+learning+--+R+%7C+Assembly+%7C+MySQL+Window+Functions;%24+open_to+--+Business+Data+Analyst+%26+Data+Scientist+Internships)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=F59E0B&background=0D0D0D00&center=true&vCenter=true&width=750&lines=%24+whoami+--+Data+Analyst+%7C+Business+Data+Analyst+%7C+Data+Scientist+%40+UCR;%24+stack+--+Python+%7C+SQL+%7C+Pandas+%7C+XGBoost+%7C+Power+BI;%24+projects+--+SectorSight+%7C+SalesPulse+%7C+CoralLens+%7C+ShelfSense;%24+learning+--+R+%7C+Assembly+%7C+MySQL+Window+Functions;%24+open_to+--+Data+Analyst+%7C+BDA+%7C+Data+Scientist+Internships)](https://git.io/typing-svg)
 
 </div>
 
@@ -49,16 +49,16 @@
 
 ## `$ cat about.txt`
 
-CS sophomore at UC Riverside (GPA 3.67) turning raw data into decisions — trained ARIMA, SARIMAX, and XGBoost models achieving 23% RMSE reduction, and built a Random Forest classifier at 60% accuracy across 400,000+ records. I specialize in end-to-end data analytics and ML: feature engineering, time-series forecasting, and storytelling with Tableau and Power BI. Actively seeking **Business Data Analyst & Data Scientist internships**.
+CS sophomore at UC Riverside (GPA 3.67) turning raw data into decisions — trained ARIMA, SARIMAX, and XGBoost models achieving 23% RMSE reduction, and built a Random Forest classifier at 60% accuracy across 400,000+ records. I specialize in end-to-end data analytics and ML: feature engineering, time-series forecasting, and storytelling with Tableau and Power BI. Actively seeking **Data Analyst, Business Data Analyst & Data Scientist internships**.
 
 ```bash
 #!/usr/bin/env analyst
-ROLE        = "Business Data Analyst | Data Scientist"
-EXPERIENCE  = "Data Scientist @ UCR | Project Developer @ ACM@UCR"
+ROLE        = "Data Analyst | Business Data Analyst | Data Scientist"
+EXPERIENCE  = "Data Analyst | Business Data Analyst | Data Scientist @ UCR"
 DOMAIN      = "Data Analytics | ML | Time-Series Forecasting | Visualization"
 STACK       = "Python · SQL · Pandas · XGBoost · ARIMA · SARIMAX · Scikit-learn · Power BI · Tableau · Excel"
 LEARNING    = "R · Assembly · MySQL Window Functions"
-OPEN_TO     = "Business Data Analyst & Data Scientist Internships (2025-2026)"
+OPEN_TO     = "Data Analyst | Business Data Analyst | Data Scientist Internships (2025-2026)"
 AWARD       = "Best Beginner - CutieHacks 2025 (100+ attendees)"
 ```
 
@@ -102,8 +102,8 @@ AWARD       = "Best Beginner - CutieHacks 2025 (100+ attendees)"
 
 <div align="center">
 
-![Business Analytics](https://img.shields.io/badge/Specialization-Business%20Data%20Analytics-F59E0B?style=for-the-badge&labelColor=0D0D0D)
-![Data Science](https://img.shields.io/badge/Role-Data%20Scientist-FBBF24?style=for-the-badge&labelColor=0D0D0D)
+![Data Analytics](https://img.shields.io/badge/Specialization-Data%20Analytics-F59E0B?style=for-the-badge&labelColor=0D0D0D)
+![Roles](https://img.shields.io/badge/Roles-Data%20Analyst%20%7C%20BDA%20%7C%20Data%20Scientist-FBBF24?style=for-the-badge&labelColor=0D0D0D)
 ![Time Series](https://img.shields.io/badge/ML-Time--Series%20Forecasting-F59E0B?style=for-the-badge&labelColor=0D0D0D)
 ![ML Modeling](https://img.shields.io/badge/ML-Predictive%20Modeling-FBBF24?style=for-the-badge&labelColor=0D0D0D)
 ![Feature Engineering](https://img.shields.io/badge/Feature-Engineering-F59E0B?style=for-the-badge&labelColor=0D0D0D)
@@ -349,7 +349,7 @@ current_focus:
     - "Hyperparameter tuning and cross-validation strategies"
     - "Business intelligence tooling and reporting automation"
   open_to:
-    - "Business Data Analyst & Data Scientist Internships (Summer / Fall 2026)"
+    - "Data Analyst | Business Data Analyst | Data Scientist Internships (Summer / Fall 2026)"
     - "Data Scientist Internships (ML / Analytics / SaaS)"
     - "Data Science roles in Healthcare, E-Commerce, or Tech/SaaS"
 ```
