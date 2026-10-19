@@ -28,7 +28,7 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-F59E0B?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0D0D0D)](https://portfolio-vert-three-osa3d870uv.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-F59E0B?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0D0D0D)](https://gokulbalachander.github.io/points/#home)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-F59E0B?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=0D0D0D)](https://linkedin.com/in/gokul-balachander)
 [![Email](https://img.shields.io/badge/Email-Contact-FBBF24?style=for-the-badge&logo=gmail&logoColor=black&labelColor=0D0D0D)](mailto:gokulbalachander.viiia@gmail.com)
 [![ACM UCR](https://img.shields.io/badge/ACM@UCR-Project%20Developer-F59E0B?style=for-the-badge&logo=acm&logoColor=black&labelColor=0D0D0D)](https://github.com/GokulBalachander)
@@ -360,7 +360,7 @@ current_focus:
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-F59E0B?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0D0D0D)](https://portfolio-vert-three-osa3d870uv.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-F59E0B?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0D0D0D)](https://gokulbalachander.github.io/points/#home)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-F59E0B?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=0D0D0D)](https://linkedin.com/in/gokul-balachander)
 [![Email](https://img.shields.io/badge/Email-Contact-FBBF24?style=for-the-badge&logo=gmail&logoColor=black&labelColor=0D0D0D)](mailto:gokulbalachander.viiia@gmail.com)
 [![ACM UCR](https://img.shields.io/badge/ACM@UCR-Project%20Developer-F59E0B?style=for-the-badge&labelColor=0D0D0D)](https://github.com/GokulBalachander)
